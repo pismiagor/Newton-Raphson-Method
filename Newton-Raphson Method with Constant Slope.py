@@ -1,6 +1,7 @@
 def function(y: str, variable: str, x):
 
     equation = ""
+    x = x
 
     for i in y:
         if i != variable:
